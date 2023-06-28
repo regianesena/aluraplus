@@ -8,7 +8,9 @@
 
 * CSS
 
-* Flex-box
+* Flexbox
+
+* Grid
 
 ## Feito por:
 
